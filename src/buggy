@@ -1,0 +1,9 @@
+public class MyClass {
+    int aInteger;
+    double bDouble;
+
+    public MyClass(int myAIntegerParam, double myBDoubleParam) {
+        aInteger = myAIntegerParam;
+        bDouble = myBDoubleParam;
+    }
+}
